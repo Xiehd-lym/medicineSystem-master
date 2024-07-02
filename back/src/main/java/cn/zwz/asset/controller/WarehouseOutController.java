@@ -17,9 +17,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @author 郑为中
- */
+
 @RestController
 @Api(tags = "出库管理")
 @RequestMapping("/zwz/warehouseOut")

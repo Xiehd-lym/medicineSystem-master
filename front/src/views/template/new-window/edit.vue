@@ -69,11 +69,12 @@ export default {
             // });
             // 模拟获取数据成功
             this.loading = false;
-            if (this.form.id == "1") {
-                this.form.name = "XBoot";
-            } else {
-                this.form.name = "郑为中";
-            }
+            this.form.name = "XBoot";
+            // if (this.form.id == "1") {
+            //     this.form.name = "XBoot";
+            // } else {
+            //     this.form.name = "郑为中";
+            // }
         },
         handleSubmit() {
             this.$refs.form.validate(valid => {

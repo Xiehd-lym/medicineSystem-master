@@ -16,9 +16,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @author 郑为中
- */
+
 @RestController
 @Api(tags = "医用设备档案")
 @RequestMapping("/zwz/assetsType")

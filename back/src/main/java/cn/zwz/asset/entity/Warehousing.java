@@ -10,9 +10,7 @@ import org.hibernate.annotations.DynamicUpdate;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-/**
- * @author 郑为中
- */
+
 @Data
 @Entity
 @DynamicInsert

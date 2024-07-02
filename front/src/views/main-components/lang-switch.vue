@@ -1,12 +1,12 @@
 <template>
   <div class="lang-icon">
-    <Dropdown @on-click="langChange">
-      <Icon type="md-globe" size="26"/>
-      <DropdownMenu slot="list">
-        <DropdownItem name="zh-CN">简体中文</DropdownItem>
-        <DropdownItem name="en-US">English</DropdownItem>
-      </DropdownMenu>
-    </Dropdown>
+<!--    <Dropdown @on-click="langChange">-->
+<!--      <Icon type="md-globe" size="26"/>-->
+<!--      <DropdownMenu slot="list">-->
+<!--        <DropdownItem name="zh-CN">简体中文</DropdownItem>-->
+<!--        <DropdownItem name="en-US">English</DropdownItem>-->
+<!--      </DropdownMenu>-->
+<!--    </Dropdown>-->
   </div>
 </template>
 

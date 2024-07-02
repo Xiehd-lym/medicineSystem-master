@@ -22,7 +22,6 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author 郑为中
  */
 @RestController
 @Api(tags = "参保人员")

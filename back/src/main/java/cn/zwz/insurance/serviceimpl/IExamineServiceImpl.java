@@ -11,7 +11,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 /**
  * 保险审核接口实现
- * @author 郑为中
  */
 @Slf4j
 @Service
