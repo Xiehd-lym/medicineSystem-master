@@ -1,4 +1,4 @@
-# medicineSystem-master
+# medicineSystem
 
 毕业设计：主题“基于Vue的医疗管理”
 
